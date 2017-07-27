@@ -1,4 +1,4 @@
-package io.app.tomay.data;
+package io.app.tomay.data.entity;
 
 import javax.persistence.*;
 
