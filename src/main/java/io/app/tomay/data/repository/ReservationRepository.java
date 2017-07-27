@@ -8,9 +8,7 @@ import org.springframework.stereotype.Repository;
 import java.sql.Date;
 import java.util.List;
 
-/**
- * Created by marcelvillanuevadelgado on 24/07/17.
- */
+
 @Repository
 public interface ReservationRepository extends CrudRepository<Reservation, Long> {
     List<Reservation> findByDate(Date date);

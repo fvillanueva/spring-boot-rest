@@ -3,9 +3,7 @@ package io.app.tomay.data.entity;
 import javax.persistence.*;
 import java.sql.Date;
 
-/**
- * Created by marcelvillanuevadelgado on 24/07/17.
- */
+
 @Entity
 @Table(name="RESERVATION")
 public class Reservation {

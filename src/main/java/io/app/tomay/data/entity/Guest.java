@@ -2,9 +2,7 @@ package io.app.tomay.data.entity;
 
 import javax.persistence.*;
 
-/**
- * Created by marcelvillanuevadelgado on 24/07/17.
- */
+
 @Entity
 @Table(name="GUEST")
 public class Guest {
