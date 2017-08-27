@@ -12,6 +12,7 @@
 
 ### IntelliJ IDEA ###
 .idea
+*.jar
 *.iws
 *.iml
 *.ipr
@@ -23,3 +24,5 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+.DS_Store
