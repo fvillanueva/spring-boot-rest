@@ -2,6 +2,10 @@ package io.app.tomay.data.entity;
 
 import javax.persistence.*;
 
+/**
+ * @author Fidel Villanueva
+ * TODO: 26/08/17
+ */
 
 @Entity
 @Table(name="GUEST")

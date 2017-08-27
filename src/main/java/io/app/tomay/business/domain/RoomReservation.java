@@ -2,6 +2,10 @@ package io.app.tomay.business.domain;
 
 import java.util.Date;
 
+/**
+ * @author Fidel Villanueva
+ * TODO: 26/08/17
+ */
 
 public class RoomReservation {
     private long roomId;

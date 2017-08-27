@@ -15,6 +15,10 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
+/**
+ * @author Fidel Villanueva
+ * TODO: 26/08/17
+ */
 
 @Service
 public class ReservationService {
